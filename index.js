@@ -27,13 +27,13 @@ function ternaryCheckCity(someCity){
 
   let result;
 
-  if (someCity === NYC)
+  if (someCity === "NYC")
 
   {result = "Ok, sounds good."}
 
 
 
-  else if (someCity != NYC)
+  else if (someCity != "NYC")
 
   {result = "No go."}
 
