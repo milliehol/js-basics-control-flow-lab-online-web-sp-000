@@ -1,7 +1,7 @@
 function scuberGreetingForFeet(){
 
   let someNumber;
-  
+
   if (someNumber <= 400)
 
   result = "This ride is for free"
