@@ -43,11 +43,11 @@ return result;
 }
 
 function switchOnCharmFromTip(someTip){
-  
+
   // Write your code here!
- 
+
 let result;
- 
+
 switch (someTip) {
     case 'generous':
         result = 'Thank you so much.';
