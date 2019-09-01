@@ -7,9 +7,9 @@ function scuberGreetingForFeet(){
 
   result = "This ride is for free"
 
-  
 
-  
+
+
   // Write your code here!
 }
 
