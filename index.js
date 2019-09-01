@@ -22,8 +22,24 @@ return result;
   // Write your code here!
 }
 
-function ternaryCheckCity(){
+function ternaryCheckCity(someCity){
   // Write your code here!
+
+  let result;
+
+  if (someCity === NYC)
+
+  {result = "Ok, sounds good."}
+
+
+
+  else if (someCity != NYC)
+
+  {result = "No go."}
+
+
+
+return result;
 }
 
 function switchOnCharmFromTip(){
