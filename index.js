@@ -55,7 +55,7 @@ switch (someTip) {
     case 'not as generous':
         result = 'Thank you.';
         break;
-    Default:
+    default:
         result = 'Bye.';
         break;
 }
