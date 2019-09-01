@@ -4,19 +4,16 @@ function scuberGreetingForFeet(){
 
   if (someNumber <= 400)
 
-  result = "This ride is for free"
+  result = "This one is on me."
 
-  else if (someNumber >= 400)
-
-  result = "This ride is not free"
 
   else if (someNumber > 2000)
 
-  result = "This ride costs $30"
+  result = "I will gladly take your $30"
 
   else if (someNumber > 2500)
 
-  result = "This ride is not allowed"
+  result = "No can do."
 
 
 
